@@ -147,6 +147,11 @@ h6 {
 	main {
 		height: 100vh;
 	}
+
+	.header > .logo {
+		width: unset;
+		height: unset;
+	}
 	.container {
 		width: auto;
 		display: flex;
